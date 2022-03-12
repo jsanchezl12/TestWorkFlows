@@ -1,6 +1,6 @@
 name: Automerge
 on:
-  pull:
+  push:
     branches: [ main ]
   pull_request:
     types:
